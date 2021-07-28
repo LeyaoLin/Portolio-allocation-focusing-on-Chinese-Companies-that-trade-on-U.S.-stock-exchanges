@@ -1,4 +1,4 @@
-# Portolio-allocation-focusing-on-Chinese-Companies-that-trade-on-U.S.-stock-exchanges
+# Portolio allocation focusing on Chinese Companies that trade on U.S. stock exchanges
 **Team member**：   
 Leyao Lin      
 Tinsong Li      
